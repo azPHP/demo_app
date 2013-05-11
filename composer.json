@@ -1,0 +1,11 @@
+{
+    "name": "azphp/xdebug-demo",
+    "description": "Demo application for xdebug-ide integration",
+    "minimum-stability": "beta",
+    "authors": [
+        {
+            "name": "Gordon Forsythe",
+            "email": "no@thankyou.com"
+        }
+    ]
+}
