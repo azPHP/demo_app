@@ -7,5 +7,16 @@
             "name": "Gordon Forsythe",
             "email": "no@thankyou.com"
         }
-    ]
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }
+    ],
+    "require": {
+        "silvester/reverse-oauth2": "dev-master",
+        "zendframework/zendframework":"dev-master",
+        "doctrine/doctrine-orm-module": "0.7.0"
+    }
 }
